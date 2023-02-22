@@ -1,0 +1,12 @@
+﻿Console.WriteLine("------------------------------------------");
+;Console.WriteLine("Programa que permita calcular el 30%, el \n60% y el 90% de un número cualquiera ");
+Console.WriteLine("------------------------------------------");
+double valorIng, rta30, rta60, rta90;
+Console.WriteLine("Ingrese un valor para calcular el 20,30 y 90%");
+valorIng = Convert.ToDouble(Console.ReadLine());
+rta30 = valorIng*0.30;
+rta60 = valorIng*0.60;
+rta90 = valorIng*0.90;
+Console.WriteLine("---------------------------------------------------------");
+Console.WriteLine("el valor ingresado fue => " + valorIng + "\nsu 30% es = " + rta30 + "\nsu 60% es = " + rta60 + "\ny su 90% es = " + rta90);
+Console.WriteLine("---------------------------------------------------------");

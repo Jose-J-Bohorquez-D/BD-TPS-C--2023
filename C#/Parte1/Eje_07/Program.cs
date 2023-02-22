@@ -1,0 +1,10 @@
+﻿Console.WriteLine("---------------------------------------------");
+Console.WriteLine("Programa para calcular el área de un cuadrado");
+Console.WriteLine("---------------------------------------------");
+double valorIng, Area;
+Console.WriteLine("ingresa la longitud de uno de sus lados");
+valorIng = Convert.ToDouble(Console.ReadLine());
+Area = valorIng * valorIng;
+Console.WriteLine("--------------------------------");
+Console.WriteLine("el area del cuadrado es = "+ Area);
+Console.WriteLine("--------------------------------");

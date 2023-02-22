@@ -1,0 +1,15 @@
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\bin\Debug\net7.0\Eje_07.exe
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\bin\Debug\net7.0\Eje_07.deps.json
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\bin\Debug\net7.0\Eje_07.runtimeconfig.json
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\bin\Debug\net7.0\Eje_07.dll
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\bin\Debug\net7.0\Eje_07.pdb
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\obj\Debug\net7.0\Eje_07.csproj.AssemblyReference.cache
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\obj\Debug\net7.0\Eje_07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\obj\Debug\net7.0\Eje_07.AssemblyInfoInputs.cache
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\obj\Debug\net7.0\Eje_07.AssemblyInfo.cs
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\obj\Debug\net7.0\Eje_07.csproj.CoreCompileInputs.cache
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\obj\Debug\net7.0\Eje_07.dll
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\obj\Debug\net7.0\refint\Eje_07.dll
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\obj\Debug\net7.0\Eje_07.pdb
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\obj\Debug\net7.0\Eje_07.genruntimeconfig.cache
+D:\Developments_BD\BD-TPS-C--2023\C#\Parte1\Eje_07\obj\Debug\net7.0\ref\Eje_07.dll

@@ -1,0 +1,10 @@
+﻿Console.WriteLine("--------------------------------------------------------------------------");
+Console.WriteLine(" Programa para calcular la distancia recorrida en un movimiento rectilíneo.\n Recuerde que X = V*T");
+Console.WriteLine("--------------------------------------------------------------------------");
+int v, t, x ; 
+Console.WriteLine("Ingrese la velocidad");
+v = int.Parse(Console.ReadLine());
+Console.WriteLine("Ingrese el tiempo");
+t = int.Parse(Console.ReadLine());
+x = v * t ;
+Console.WriteLine("la distancia recorrida del movimiento rectilineo es = " + x ) ;

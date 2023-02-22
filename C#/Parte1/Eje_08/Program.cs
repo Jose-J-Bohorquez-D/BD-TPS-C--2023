@@ -1,0 +1,16 @@
+﻿Console.WriteLine("--------------------------------------------------------------");
+Console.WriteLine("Programa que permita ingresar 5 números y calcular el promedio");
+Console.WriteLine("--------------------------------------------------------------");
+double n1, n2, n3, n4, n5, prom;
+Console.WriteLine("ingrese primer valor");
+n1 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("ingrese segundo valor");
+n2 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("ingrese tercer valor");
+n3 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("ingrese cuarto valor");
+n4 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("ingrese quinto valor");
+n5 = Convert.ToDouble(Console.ReadLine());
+prom = (n1 + n2 + n3 + n4 + n5) / 5;
+Console.WriteLine("el promedio para los valores ingresados es = " + prom);

@@ -1,0 +1,10 @@
+﻿Console.WriteLine("-------------------------------------------------------------------------------");
+Console.WriteLine("Programa que permita calcular la edad \nde una persona conociendo el año actual \ny su año de nacimiento");
+Console.WriteLine("-------------------------------------------------------------------------------");
+int fechaNacim, edadActual;
+Console.WriteLine("Ingrese su fecha de nacimiento");
+fechaNacim = int.Parse(Console.ReadLine());
+edadActual = 2023 - fechaNacim ;
+Console.WriteLine("---------------------------------");
+Console.WriteLine("Su edad actual es = " + edadActual + "Años");
+Console.WriteLine("---------------------------------");

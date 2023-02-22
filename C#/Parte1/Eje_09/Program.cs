@@ -1,0 +1,11 @@
+﻿Console.WriteLine("-------------------------------------------------------");
+Console.WriteLine("Programa que permita a una tienda saber el valor que pagara un cliente \npor la compra de varios elementos de la misma referencia. \nDebe tener como entradas el valor unitario, la cantidad de productos comprados \ny al valor final se debe adicionar el 16% correspondiente al IVA ");
+Console.WriteLine("-------------------------------------------------------");
+int valorUnit, cantidad, rta1, rta2;
+Console.WriteLine("ingresa el valor unitario");
+valorUnit = int.Parse(Console.ReadLine());
+Console.WriteLine("ingresa la cantidad de productos comprados");
+cantidad = int.Parse(Console.ReadLine());
+rta1 = ((valorUnit * cantidad) * 16) /100 ;
+rta2 = (valorUnit * cantidad) + rta1;
+Console.WriteLine("el valor que debe pagar el cliente final o consumidor es = " + rta1);
