@@ -8,15 +8,16 @@ operacion = int.Parse(Console.ReadLine());
 switch (operacion)
 {
     case 1:
-        Console.WriteLine("uno");
+        Console.WriteLine("Calcular distancia recorrida");
+        
     break;
 
     case 2:
-        Console.WriteLine("dos");
+        Console.WriteLine("Calcular tiempo");
     break;
 
     case 3:
-        Console.WriteLine("tres");
+        Console.WriteLine("Calcular velocidad");
     break;
     
     default:
