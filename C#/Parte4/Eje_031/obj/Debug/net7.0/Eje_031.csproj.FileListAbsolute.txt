@@ -1,0 +1,15 @@
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\obj\Debug\net7.0\Eje_031.csproj.AssemblyReference.cache
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\obj\Debug\net7.0\Eje_031.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\obj\Debug\net7.0\Eje_031.AssemblyInfoInputs.cache
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\obj\Debug\net7.0\Eje_031.AssemblyInfo.cs
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\obj\Debug\net7.0\Eje_031.csproj.CoreCompileInputs.cache
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\bin\Debug\net7.0\Eje_031.exe
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\bin\Debug\net7.0\Eje_031.deps.json
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\bin\Debug\net7.0\Eje_031.runtimeconfig.json
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\bin\Debug\net7.0\Eje_031.dll
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\bin\Debug\net7.0\Eje_031.pdb
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\obj\Debug\net7.0\Eje_031.dll
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\obj\Debug\net7.0\refint\Eje_031.dll
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\obj\Debug\net7.0\Eje_031.pdb
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\obj\Debug\net7.0\Eje_031.genruntimeconfig.cache
+C:\Users\Developments_BD\Desktop\BD-TPS-C--2023\C#\Parte4\Eje_031\obj\Debug\net7.0\ref\Eje_031.dll
