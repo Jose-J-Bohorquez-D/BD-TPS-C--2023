@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Developments_BD\\.nuget\\packages\\": {}
+    "C:\\Users\\Ambiente\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Developments_BD\\Desktop\\BD-TPS-C--2023\\C#\\Parte4\\Eje_033\\Eje_033.csproj",
+      "projectUniqueName": "C:\\Users\\Ambiente\\Desktop\\BD-TPS-C--2023\\C#\\Parte4\\Eje_033\\Eje_033.csproj",
       "projectName": "Eje_033",
-      "projectPath": "C:\\Users\\Developments_BD\\Desktop\\BD-TPS-C--2023\\C#\\Parte4\\Eje_033\\Eje_033.csproj",
-      "packagesPath": "C:\\Users\\Developments_BD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Developments_BD\\Desktop\\BD-TPS-C--2023\\C#\\Parte4\\Eje_033\\obj\\",
+      "projectPath": "C:\\Users\\Ambiente\\Desktop\\BD-TPS-C--2023\\C#\\Parte4\\Eje_033\\Eje_033.csproj",
+      "packagesPath": "C:\\Users\\Ambiente\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ambiente\\Desktop\\BD-TPS-C--2023\\C#\\Parte4\\Eje_033\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Developments_BD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ambiente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
