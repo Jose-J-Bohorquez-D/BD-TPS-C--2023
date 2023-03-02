@@ -6,17 +6,17 @@ int vueltas = int.Parse(Console.ReadLine());
 float valIng=0,total=0,rta=0 ;
 for (int x = 1; x <=vueltas; x++)
 {
-    Console.WriteLine("ingrese por favor su edad\n ingrese un valor para la nota #"+x);
-    valIng = int.Parse(Console.ReadLine());
+    Console.WriteLine("ingrese por favor un valor para la nota #"+x);
+    valIng = float.Parse(Console.ReadLine());
     total = total+valIng;
     Console.WriteLine("\n");
 }
 rta=total/vueltas;// las operaciones se deben hacer fuera del ciclo asi como en este caso puntual
 if (rta >= 40 )
 {
-    Console.WriteLine("pasas la materia ome nea ");
+    Console.WriteLine("el promedio es de : " + rta + " pasas la materia ome nea ");
 }else
 {
-    Console.WriteLine("paila papi te jodiste mka");
+    Console.WriteLine("el promedio es de : " + rta +  "paila papi te jodiste mka");
 }
 Console.WriteLine("\n");
